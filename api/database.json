@@ -1,0 +1,78 @@
+{
+  "authors": [
+    {
+      "id": 1,
+      "name": "Robert",
+      "email": "robert@nss.com"
+    },
+    {
+      "id": 2,
+      "name": "Ash",
+      "email": "ash@nss.com"
+    },
+    {
+      "id": 3,
+      "name": "Chaneice",
+      "email": "chaneice@nss.com"
+    },
+    {
+      "id": 4,
+      "name": "Kyle",
+      "email": "kyle@nss.com"
+    },
+    {
+      "id": 5,
+      "name": "Michelle",
+      "email": "michelle@nss.com"
+    }
+  ],
+  "topics": [
+    {
+      "id": 1,
+      "name": "Business"
+    },
+    {
+      "id": 2,
+      "name": "Friendly"
+    },
+    {
+      "id": 3,
+      "name": "Friendly"
+    },
+    {
+      "id": 4,
+      "name": "Congratulations"
+    },
+    {
+      "id": 5,
+      "name": "Condolences"
+    }
+  ],
+  "recipients": [
+    {
+      "id": 1,
+      "name": "Robert",
+      "email": "robert@nss.com"
+    },
+    {
+      "id": 2,
+      "name": "Ash",
+      "email": "ash@nss.com"
+    },
+    {
+      "id": 3,
+      "name": "Chaneice",
+      "email": "chaneice@nss.com"
+    },
+    {
+      "id": 4,
+      "name": "Kyle",
+      "email": "kyle@nss.com"
+    },
+    {
+      "id": 5,
+      "name": "Michelle",
+      "email": "michelle@nss.com"
+    }
+  ]
+}
